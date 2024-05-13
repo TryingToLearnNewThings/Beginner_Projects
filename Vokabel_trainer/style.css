@@ -1,0 +1,18 @@
+.page-content {
+    padding: 50px;
+    text-align: center;
+}
+
+.mdl-Text {
+    width: 50%;
+    padding-right: 24px;
+}
+
+ul {
+  border: 1px solid black;
+  padding-right: 0px;
+  padding-left: 28px;
+  width: auto;
+  border-radius: 5px;
+  list-style: none;
+}
